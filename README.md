@@ -50,8 +50,8 @@ Final Answer
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd rag
+git clone https://github.com/ayyzenn/agentic_rag.git
+cd agentic_rag
 ```
 
 ### 2. Set Up Virtual Environment
